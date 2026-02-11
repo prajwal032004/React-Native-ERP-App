@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Shramic ERP Logo](./assets/icon.png)
-
 **A comprehensive full-stack mobile ERP system for efficient intern and employee management**
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.81.5-61dafb?logo=react)](https://reactnative.dev/)
@@ -11,8 +9,6 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0-000000?logo=flask)](https://flask.palletsprojects.com/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776ab?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-[Features](#-features) • [Installation](#-installation) • [Screenshots](#-screenshots) • [API Documentation](#-api-documentation) • [Deployment](#-deployment)
 
 </div>
 
