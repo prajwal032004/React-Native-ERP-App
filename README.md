@@ -1,4 +1,4 @@
-# 📊 Shramic ERP - Intern Management System
+# 📊 ERP - Intern Management System
 
 <div align="center">
 
@@ -36,12 +36,12 @@
 
 ## 🎯 Overview
 
-**Shramic ERP** is a modern, full-stack Enterprise Resource Planning system designed specifically for managing interns and employees. It combines a powerful Flask backend with a beautiful React Native mobile application to provide seamless workforce management capabilities.
+**ERP** is a modern, full-stack Enterprise Resource Planning system designed specifically for managing interns and employees. It combines a powerful Flask backend with a beautiful React Native mobile application to provide seamless workforce management capabilities.
 
 ### 🎪 Live Demo
 
-- **Backend API**: [https://shramicerp.pythonanywhere.com](https://shramicerp.pythonanywhere.com)
-- **Admin Panel**: [https://shramicerp.pythonanywhere.com/admin/login](https://shramicerp.pythonanywhere.com/admin/login)
+- **Backend API**: [https://shramicerp.pythonanywhere.com](https://yourname.pythonanywhere.com)
+- **Admin Panel**: [https://shramicerp.pythonanywhere.com/admin/login](https://yourname.pythonanywhere.com/admin/login)
   - Email: `admin@erp.com`
   - Password: `admin123`
 
